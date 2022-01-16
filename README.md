@@ -23,6 +23,8 @@ This project built to display amount of money spent per item by using React. You
 - Handling Events
 - Updating the UI & Working with "State"
 - A Closer Look At Componenets & State
+- Outputting Dynamic Lists Of Content
+- Rendering Content Under Certain Conditions
 - useState
 - props
 - onClick/onSubmit
