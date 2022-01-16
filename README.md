@@ -2,7 +2,7 @@
 
 ## About
 
-This project built to display amount of money spent per item by using React. You can add expenses and view how much you spent in each year.
+This project is built to display amount of money spent per item by using React. You can add expenses and view how much you spent in each year.
 
 ## How to run locally
 
